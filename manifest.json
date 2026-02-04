@@ -1,0 +1,16 @@
+{
+  "name": "Tempo Strike",
+  "short_name": "TempoStrike",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3938/3938048.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
